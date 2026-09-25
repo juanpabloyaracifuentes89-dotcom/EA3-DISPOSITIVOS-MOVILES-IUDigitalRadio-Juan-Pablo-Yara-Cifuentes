@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IU Digital Radio</string>
+    <style name="Theme.IUDigitalRadio" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+</resources>

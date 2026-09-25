@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.iudigital.radio.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.iudigital.radio.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.iudigital.radio.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "com.iudigital.radio.app-main-52:/xml/backup_rules.xml"
+    }
+]
